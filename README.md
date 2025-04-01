@@ -17,7 +17,7 @@ Why This Project Matters
 Many schools lack an efficient system to track student progress in real time. This dashboard provides actionable insights that help teachers identify struggling students, improve interventions, and enhance learning outcomes.
 
 📊 Technologies Used:
-	1.	Google Sheets (data storage and processing)
-	2.	Looker Studio (Google Data Studio) (dashboard creation and visualization)
+1. Google Sheets (data storage and processing)
+2. Looker Studio (Google Data Studio) (dashboard creation and visualization)
 
 ![Student Performance Dashboard](DASHSCREENSHOT.png)
