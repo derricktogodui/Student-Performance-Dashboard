@@ -6,18 +6,18 @@ This project is a real-time, data-driven dashboard designed to monitor and analy
 
 Key Features:
 
-✅ Centralized Student Data Management: Automatically updates and organizes student records from multiple classes.
-✅ Real-Time Performance Insights: Tracks attendance, assessment trends, and class averages through dynamic visualizations.
-✅ At-Risk Student Identification: Flags students with declining performance for early intervention.
-✅ Leaderboard & Rankings: Displays top-performing students based on cumulative scores.
-✅ Automated KPI Calculations: Computes average scores, attendance rates, and semester performance metrics.
+1. Centralized Student Data Management: Automatically updates and organizes student records from multiple classes.
+2. Real-Time Performance Insights: Tracks attendance, assessment trends, and class averages through dynamic visualizations.
+3. At-Risk Student Identification: Flags students with declining performance for early intervention.
+4. Leaderboard & Rankings: Displays top-performing students based on cumulative scores.
+5. Automated KPI Calculations: Computes average scores, attendance rates, and semester performance metrics.
 
 Why This Project Matters
 
 Many schools lack an efficient system to track student progress in real time. This dashboard provides actionable insights that help teachers identify struggling students, improve interventions, and enhance learning outcomes.
 
 📊 Technologies Used:
-	•	Google Sheets (data storage and processing)
-	•	Looker Studio (Google Data Studio) (dashboard creation and visualization)
+	1.	Google Sheets (data storage and processing)
+	2.	Looker Studio (Google Data Studio) (dashboard creation and visualization)
 
 ![Student Performance Dashboard](DASHSCREENSHOT.png)
